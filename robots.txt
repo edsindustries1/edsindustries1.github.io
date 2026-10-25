@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /studio
+Disallow: /i/
+Disallow: /api/
+
+
+Sitemap: https://nimantaran.site/sitemap.xml

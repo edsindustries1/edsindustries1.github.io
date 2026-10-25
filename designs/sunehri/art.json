@@ -1,0 +1,219 @@
+{
+  "hero": {
+    "file": "hero.webp",
+    "w": 1024,
+    "h": 1536,
+    "kb": 212
+  },
+  "envelope": {
+    "file": "envelope.webp",
+    "w": 900,
+    "h": 1350,
+    "kb": 144
+  },
+  "envelope-gold": {
+    "file": "envelope-gold.webp",
+    "w": 900,
+    "h": 1350,
+    "kb": 168
+  },
+  "florals": [
+    {
+      "file": "florals-01.webp",
+      "w": 737,
+      "h": 846,
+      "kb": 210
+    },
+    {
+      "file": "florals-02.webp",
+      "w": 765,
+      "h": 421,
+      "kb": 129
+    },
+    {
+      "file": "florals-03.webp",
+      "w": 398,
+      "h": 413,
+      "kb": 75
+    },
+    {
+      "file": "florals-04.webp",
+      "w": 261,
+      "h": 264,
+      "kb": 20
+    },
+    {
+      "file": "florals-05.webp",
+      "w": 209,
+      "h": 313,
+      "kb": 36
+    },
+    {
+      "file": "florals-06.webp",
+      "w": 212,
+      "h": 351,
+      "kb": 40
+    },
+    {
+      "file": "florals-07.webp",
+      "w": 78,
+      "h": 63,
+      "kb": 3
+    },
+    {
+      "file": "florals-08.webp",
+      "w": 228,
+      "h": 116,
+      "kb": 8
+    },
+    {
+      "file": "florals-09.webp",
+      "w": 66,
+      "h": 60,
+      "kb": 3
+    }
+  ],
+  "gold": [
+    {
+      "file": "gold-01.webp",
+      "w": 432,
+      "h": 450,
+      "kb": 35
+    },
+    {
+      "file": "gold-02.webp",
+      "w": 445,
+      "h": 446,
+      "kb": 55
+    },
+    {
+      "file": "gold-03.webp",
+      "w": 423,
+      "h": 429,
+      "kb": 58
+    },
+    {
+      "file": "gold-04.webp",
+      "w": 863,
+      "h": 139,
+      "kb": 23
+    },
+    {
+      "file": "gold-05.webp",
+      "w": 284,
+      "h": 177,
+      "kb": 19
+    }
+  ],
+  "arch-card": {
+    "file": "arch-card.webp",
+    "w": 1024,
+    "h": 1536,
+    "kb": 89
+  },
+  "icons": [
+    {
+      "file": "icons-01.webp",
+      "w": 337,
+      "h": 421,
+      "kb": 58
+    },
+    {
+      "file": "icons-02.webp",
+      "w": 266,
+      "h": 397,
+      "kb": 41
+    },
+    {
+      "file": "icons-03.webp",
+      "w": 279,
+      "h": 235,
+      "kb": 34
+    },
+    {
+      "file": "icons-04.webp",
+      "w": 423,
+      "h": 311,
+      "kb": 56
+    },
+    {
+      "file": "icons-05.webp",
+      "w": 330,
+      "h": 332,
+      "kb": 56
+    },
+    {
+      "file": "icons-06.webp",
+      "w": 338,
+      "h": 259,
+      "kb": 39
+    },
+    {
+      "file": "icons-07.webp",
+      "w": 276,
+      "h": 314,
+      "kb": 48
+    },
+    {
+      "file": "icons-08.webp",
+      "w": 347,
+      "h": 393,
+      "kb": 59
+    }
+  ],
+  "venue": {
+    "file": "venue.webp",
+    "w": 820,
+    "h": 540,
+    "kb": 147
+  },
+  "guests": {
+    "file": "guests.webp",
+    "w": 820,
+    "h": 488,
+    "kb": 137
+  },
+  "canvas": {
+    "w": 1024,
+    "h": 5449,
+    "tiles": [
+      {
+        "file": "canvas-1.webp",
+        "w": 1024,
+        "h": 1600,
+        "kb": 192
+      },
+      {
+        "file": "canvas-2.webp",
+        "w": 1024,
+        "h": 1600,
+        "kb": 73
+      },
+      {
+        "file": "canvas-3.webp",
+        "w": 1024,
+        "h": 1600,
+        "kb": 45
+      },
+      {
+        "file": "canvas-4.webp",
+        "w": 1024,
+        "h": 649,
+        "kb": 57
+      }
+    ],
+    "joins": [
+      0,
+      1128,
+      2494,
+      3913
+    ],
+    "paper": "#F2DDBE",
+    "repeat": {
+      "file": "canvas-repeat.webp",
+      "w": 1024,
+      "h": 875,
+      "kb": 37
+    }
+  }
+}
